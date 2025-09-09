@@ -1,7 +1,8 @@
 # real-estate-docus
 
 Real Estate Documentation
-[Development Process](https://khamuqbil.github.io/real-estate-docus/development-process.md)
+
+[Development Process](./development-process.md)
 
 # Geolocation Services
 
