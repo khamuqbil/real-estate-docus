@@ -1,38 +1,12 @@
-# real-estate-docus
+# Introduction
 
-Real Estate Documentation
+This document defines the core features, functions, and user experience of a
+real estate platform. It explains what the system will do, why we are building
+it, and what value it brings to our customers compare to other competitors in
+the market.
 
-[Development Process](./development-process.md)
+### Content
 
-# Geolocation Services
-
-### Geolocation and Interactive Maps Providers
-
-- Balady Urban Maps [Urban](https://balady.gov.sa/en/services/urban-maps)
-
-![Mapbox](mapbox.png)
-
-- Mapbox: a Comprehensive location platform empowering with tools to build
-  highly customizable maps, navigation solution, search functionalities, and
-  design control as core tenets.
-- Google Maps
-
-![OpenStreetMap](openstreet.png)
-
-- OpenStreetMap (OSM)
-
-## Differences
-
-- **Coverage:** Google Map
-
-- **Functionality:** Google maps offers many features, such as
-  - Real-time traffic.
-  - Local search capabilities.
-  - geolocation services.
-
-- **Pricing:** OSM is entirely free and open-source, whereas both Google Maps
-  and Mapbox have usage base pricing plan.
-
-- **Customization:** Mapbox offering most options, such as.
-  - Custom styling
-  - Flexible design
+- [Development Process](./development-process.md)
+- [System Design](./system-design.md)
+- [Maps](./maps-providers.md)
