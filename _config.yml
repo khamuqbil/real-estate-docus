@@ -1,0 +1,17 @@
+# Site setting 
+title: "Real Estate Document"
+# subtitle: ""
+description: ""
+author: ""
+theme: minima
+copyright: "© 2025"
+collaborators:
+  - name: "Nabeel"
+  - name: "Khalid"
+# Auther and collaborators 
+
+# Other configurations
+markdown: kramdown
+# Optional: Set up navigation
+header_pages:
+  - README.md

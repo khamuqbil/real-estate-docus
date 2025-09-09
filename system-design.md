@@ -43,18 +43,10 @@ What users will do? (e.g., register, log in, post content, view)
 
 ### Problem Statement
 
-### 
-
 ### Define the Core Features
-
-### 
 
 ### Use Cases
 
-### 
-
 ### Requirements
-
-### 
 
 ### High Level System Architecture
