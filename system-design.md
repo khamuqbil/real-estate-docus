@@ -10,11 +10,19 @@ Identify core features:
 - Who are the primary users? Are we focusing more on property sellers (agencies,
   owners, brokers) or buyers/renters? Or focus on both?
 
+- Sellers: List properties, manage inquiries, analytics.
+- Buyers: Search filters, saved listings, virtual tours.
+- Include prioritization (e.g., MVP vs. future features).
+
+---
+
 ### User Flows
 
 What users will do? (e.g., register, log in, post content, view)
 
 - Map out **user journeys**.
+
+---
 
 ## Design the System Architecture
 

@@ -9,5 +9,6 @@ the market.
 
 - [Development Process](./development-process.md)
 - [System Design](./system-design.md)
+- [System Architecture](/system-architecture-components.md)
 - [Maps](./maps-providers.md)
 - [Pay Services](/payment-services.md)
