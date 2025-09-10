@@ -1,3 +1,4 @@
+```flow
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
 │   Web Client    │    │  Mobile Client  │    │   Admin Panel   │
 │   (React.js)    │    │ (React Native)  │    │   (React.js)    │
@@ -21,3 +22,4 @@
    │  Database   │ │   Storage   │ │   Services  │
    │(PostgreSQL) │ │   (AWS S3)  │ │(Maps, Email)│
    └─────────────┘ └─────────────┘ └─────────────┘
+```
