@@ -11,4 +11,5 @@ the market.
 - [System Design](./system-design.md)
 - [System Architecture](/system-architecture-components.md)
 - [Maps](./maps-providers.md)
+- [Technologies & Framework](/technology-%26-framework.md)
 - [Pay Services](/payment-services.md)
