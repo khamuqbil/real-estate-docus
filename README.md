@@ -13,3 +13,4 @@ the market.
 - [Maps](./maps-providers.md)
 - [Technologies & Framework](./technology-and-framework.md)
 - [Pay Services](./payment-services.md)
+- [Core Features & User Flows](./flow.md)
